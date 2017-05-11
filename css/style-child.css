@@ -1,0 +1,33 @@
+
+/* HEADER */
+
+/* arrière plan */
+.header .jumbotron
+{
+	background-image: url("../Images/header_background.jpg");
+}
+
+/* titre */
+#titre
+{
+	text-align: center;
+	color: white;	
+}
+
+
+
+/* FOOTER */
+
+/* lien vers l'admin */
+.connexion_admin
+{
+	display: flex;
+	justify-content : center;
+}
+
+
+
+
+
+
+
